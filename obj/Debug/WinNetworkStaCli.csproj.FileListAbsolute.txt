@@ -1,0 +1,6 @@
+/Users/chatop/Projects/StreamNode/WinNetworkStaCli/bin/Debug/WinNetworkStaCli.exe
+/Users/chatop/Projects/StreamNode/WinNetworkStaCli/bin/Debug/WinNetworkStaCli.pdb
+/Users/chatop/Projects/StreamNode/WinNetworkStaCli/obj/Debug/WinNetworkStaCli.csprojAssemblyReference.cache
+/Users/chatop/Projects/StreamNode/WinNetworkStaCli/obj/Debug/WinNetworkStaCli.csproj.CoreCompileInputs.cache
+/Users/chatop/Projects/StreamNode/WinNetworkStaCli/obj/Debug/WinNetworkStaCli.exe
+/Users/chatop/Projects/StreamNode/WinNetworkStaCli/obj/Debug/WinNetworkStaCli.pdb
